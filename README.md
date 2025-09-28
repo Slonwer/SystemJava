@@ -50,7 +50,7 @@ Antes de executar o sistema, você precisa ter:
 
 1. Clone o repositório  
    ```bash
-   git clone https://github
+   git clone [https://github](https://github.com/Slonwer/SystemJava/tree/main?tab=readme-ov-file#descri%C3%A7%C3%A3o)
 
    cd SystemJava
  ```mvn clean install
